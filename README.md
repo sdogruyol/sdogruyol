@@ -41,6 +41,7 @@ I'm **Serdar Doğruyol**, a software engineer and **Crystal Core Team** member f
 [![LinkedIn](https://img.shields.io/badge/serdardogruyol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/serdardogruyol)
 [![Website](https://img.shields.io/badge/serdardogruyol.com-2a7ae2?style=flat-square&logo=jekyll&logoColor=white)](https://serdardogruyol.com)
 [![Email](https://img.shields.io/badge/dogruyolserdar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dogruyolserdar@gmail.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sdogruyol)
 
 ### ⚡ Fun facts
 
