@@ -14,6 +14,7 @@ I'm **Serdar Doğruyol**, a software engineer and **Crystal Core Team** member f
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [Crystal](https://github.com/crystal-lang/crystal) | ![Stars](https://img.shields.io/github/stars/crystal-lang/crystal?style=flat-square&label=%20&color=gold) | The Crystal Programming Language *(Core Team Member)* |
 | [Kemal](https://github.com/kemalcr/kemal) | ![Stars](https://img.shields.io/github/stars/kemalcr/kemal?style=flat-square&label=%20&color=gold) | Crystal's leading web framework |
 | [gcry](https://github.com/sdogruyol/gcry) | ![Stars](https://img.shields.io/github/stars/sdogruyol/gcry?style=flat-square&label=%20&color=gold) | Native GC for Crystal |
 | [cryload](https://github.com/sdogruyol/cryload) | ![Stars](https://img.shields.io/github/stars/sdogruyol/cryload?style=flat-square&label=%20&color=gold) | CI-first HTTP benchmark tool |
