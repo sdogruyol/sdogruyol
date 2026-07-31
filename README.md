@@ -32,7 +32,7 @@ I'm **Serdar Doğruyol**, a software engineer and **Crystal Core Team** member f
 
 ![Followers](https://img.shields.io/github/followers/sdogruyol?style=flat-square&label=Followers&color=blue)
 ![Repos](https://img.shields.io/badge/Repos-152-blue?style=flat-square)
-![Stars](https://img.shields.io/github/stars/sdogruyol?style=flat-square&label=Stars%20Earned&color=gold)
+![Stars](https://img.shields.io/badge/Total%20Stars-6.5k-gold?style=flat-square) *(sdogruyol + kemalcr)*
 
 ### 📫 Where to find me
 
