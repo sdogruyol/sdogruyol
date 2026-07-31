@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-I'm **Serdar Doğruyol** — a software engineer, open source advocate, and **Crystal Core Team** member based in Istanbul, Turkey.
-
-I build tools that make developers' lives better.
+I'm **Serdar Doğruyol**, a software engineer and **Crystal Core Team** member from Istanbul, Turkey. I build tools that make developers' lives better.
 
 ---
 
 ### 🔭 What I'm working on
 
-- **[gcry](https://github.com/sdogruyol/gcry)** — A native conservative mark-sweep garbage collector for Crystal. Aiming to eliminate Crystal's dependency on Boehm GC. ~89% of Boehm throughput with ~0.95x RSS on Linux.
-- **[Kemal](https://kemalcr.com/)** — The most popular web framework for Crystal. Fast, Effective, Simple. 5M+ downloads since 2015.
-- **[cryload](https://github.com/sdogruyol/cryload)** — CI-first HTTP benchmarking tool that actually fails your builds.
+- **[gcry](https://github.com/sdogruyol/gcry)** - A native conservative mark-sweep garbage collector for Crystal. Aiming to eliminate Crystal's dependency on Boehm GC. ~89% of Boehm throughput with ~0.95x RSS on Linux.
+- **[Kemal](https://kemalcr.com/)** - The most popular web framework for Crystal. Fast, Effective, Simple. 5M+ downloads since 2015.
+- **[cryload](https://github.com/sdogruyol/cryload)** - CI-first HTTP benchmarking tool that actually fails your builds.
 
 ### 🏆 Open Source Projects
 
@@ -22,17 +20,19 @@ I build tools that make developers' lives better.
 | [tren](https://github.com/sdogruyol/tren) | ![Stars](https://img.shields.io/github/stars/sdogruyol/tren?style=flat-square&label=%20&color=gold) | SQL as first-class Crystal methods |
 | [fast-http-server](https://github.com/sdogruyol/fast-http-server) | ![Stars](https://img.shields.io/github/stars/sdogruyol/fast-http-server?style=flat-square&label=%20&color=gold) | Zero-config HTTP server |
 
-### 📖 Author — Free Books
+### 📖 Free Books
 
 | Book | Description |
 |------|-------------|
-| [Crystal for Rubyists](https://www.crystalforrubyists.com/) | A free book teaching Crystal to Ruby developers 🇬🇧 |
-| [⚡ Kemal El Kitabı](https://www.kemalkitabi.com/) | Dünyanın ilk ve tek Kemal Web Framework kitabı 🇹🇷 |
-| [💎 Crystal El Kitabı](https://www.crystalkitabi.com/) | Türkiye'nin ilk ve tek Crystal programlama dili kitabı 🇹🇷 |
+| [Crystal for Rubyists](https://www.crystalforrubyists.com/) | A free book for Ruby developers learning Crystal 🇬🇧 |
+| [⚡ Kemal El Kitabı](https://www.kemalkitabi.com/) | The first and only Kemal Web Framework book 🇹🇷 |
+| [💎 Crystal El Kitabı](https://www.crystalkitabi.com/) | The first and only Crystal programming book in Turkish 🇹🇷 |
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdogruyol&show_icons=true&hide_title=true&count_private=true&theme=transparent)
+![Followers](https://img.shields.io/github/followers/sdogruyol?style=flat-square&label=Followers&color=blue)
+![Repos](https://img.shields.io/badge/Repos-152-blue?style=flat-square)
+![Stars](https://img.shields.io/github/stars/sdogruyol?style=flat-square&label=Stars%20Earned&color=gold)
 
 ### 📫 Where to find me
 
@@ -44,6 +44,6 @@ I build tools that make developers' lives better.
 ### ⚡ Fun facts
 
 - Born in Mersin, Turkey 🇹🇷
-- Japanese learner (JLPT N4 — 125 pts) 🗾
+- Japanese learner (JLPT N4, 125 pts) 🗾
 - Macroeconomics enthusiast 📈
 - "Open Source by default"
