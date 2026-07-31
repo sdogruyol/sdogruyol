@@ -16,15 +16,23 @@ I build tools that make developers' lives better.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [Kemal](https://github.com/sdogruyol/kemal) | ⭐ 3.8k+ | Crystal's leading web framework |
-| [gcry](https://github.com/sdogruyol/gcry) | ⭐ | Native GC for Crystal |
-| [cryload](https://github.com/sdogruyol/cryload) | ⭐ | CI-first HTTP benchmark tool |
-| [tren](https://github.com/sdogruyol/tren) | ⭐ | SQL as first-class Crystal methods |
-| [fast-http-server](https://github.com/sdogruyol/fast-http-server) | ⭐ | Zero-config HTTP server |
+| [Kemal](https://github.com/kemalcr/kemal) | ![Stars](https://img.shields.io/github/stars/kemalcr/kemal?style=flat-square&label=%20&color=gold) | Crystal's leading web framework |
+| [gcry](https://github.com/sdogruyol/gcry) | ![Stars](https://img.shields.io/github/stars/sdogruyol/gcry?style=flat-square&label=%20&color=gold) | Native GC for Crystal |
+| [cryload](https://github.com/sdogruyol/cryload) | ![Stars](https://img.shields.io/github/stars/sdogruyol/cryload?style=flat-square&label=%20&color=gold) | CI-first HTTP benchmark tool |
+| [tren](https://github.com/sdogruyol/tren) | ![Stars](https://img.shields.io/github/stars/sdogruyol/tren?style=flat-square&label=%20&color=gold) | SQL as first-class Crystal methods |
+| [fast-http-server](https://github.com/sdogruyol/fast-http-server) | ![Stars](https://img.shields.io/github/stars/sdogruyol/fast-http-server?style=flat-square&label=%20&color=gold) | Zero-config HTTP server |
 
-### 📖 Author
+### 📖 Author — Free Books
 
-[Crystal for Rubyists](https://www.crystalforrubyists.com/) — A free book teaching Crystal to Ruby developers.
+| Book | Description |
+|------|-------------|
+| [Crystal for Rubyists](https://www.crystalforrubyists.com/) | A free book teaching Crystal to Ruby developers 🇬🇧 |
+| [⚡ Kemal El Kitabı](https://www.kemalkitabi.com/) | Dünyanın ilk ve tek Kemal Web Framework kitabı 🇹🇷 |
+| [💎 Crystal El Kitabı](https://www.crystalkitabi.com/) | Türkiye'nin ilk ve tek Crystal programlama dili kitabı 🇹🇷 |
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdogruyol&show_icons=true&hide_title=true&count_private=true&theme=transparent)
 
 ### 📫 Where to find me
 
@@ -38,4 +46,4 @@ I build tools that make developers' lives better.
 - Born in Mersin, Turkey 🇹🇷
 - Japanese learner (JLPT N4 — 125 pts) 🗾
 - Macroeconomics enthusiast 📈
-- "Open Source by default
+- "Open Source by default"
