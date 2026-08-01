@@ -48,4 +48,4 @@ I'm **Serdar Doğruyol**, a software engineer and **Crystal Core Team** member f
 - Born in Mersin, Turkey 🇹🇷
 - Japanese learner (JLPT N4, 125 pts) 🗾
 - Macroeconomics enthusiast 📈
-- "Open Source by default"
+- Open Source by default
