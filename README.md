@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Serdar Doğruyol**, a software engineer from Istanbul, Turkey. I'm the creator of the **[iyi](iyi.dev)** programming language and a **Crystal Core Team** member. I build tools that make developers' lives better.
+I'm **Serdar Doğruyol**, a software engineer from Istanbul, Turkey. I'm the creator of the **[iyi](iyi.dev)** programming language, creater of the **[Kemal Web Framework](https://kemalcr.com)** and a **Crystal Core Team** member. I build tools that make developers' lives better.
 
 ---
 
@@ -15,8 +15,8 @@ I'm **Serdar Doğruyol**, a software engineer from Istanbul, Turkey. I'm the cre
 ### 🔭 What I'm working on
 
 - **[iyi](github.com/iyilang/iyi)** - A programming language with Crystal's syntax, designed for fast compiles. Modules compile against their dependencies' declarations, not their bodies.
-- **[gcry](github.com/sdogruyol/gcry)** - A native conservative mark-sweep garbage collector for Crystal. Aiming to eliminate Crystal's dependency on Boehm GC. ~89% of Boehm throughput with ~0.95x RSS on Linux.
 - **[Kemal](kemalcr.com/)** - The most popular web framework for Crystal. Fast, Effective, Simple. 5M+ downloads since 2015.
+- **[gcry](github.com/sdogruyol/gcry)** - A native conservative mark-sweep garbage collector for Crystal. Aiming to eliminate Crystal's dependency on Boehm GC. ~89% of Boehm throughput with ~0.95x RSS on Linux.
 - **[cryload](github.com/sdogruyol/cryload)** - CI-first HTTP benchmarking tool that actually fails your builds.
 
 ### 🏆 Open Source Projects
