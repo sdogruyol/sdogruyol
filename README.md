@@ -45,4 +45,17 @@ I'm **Serdar Doğruyol**, a software engineer from Istanbul, Turkey. I'm the cre
 ![Repos](https://img.shields.io/badge/Repos-152-blue?style=flat-square)
 ![Stars](https://img.shields.io/badge/Total%20Stars-6.5k-gold?style=flat-square)
 
-### 📫 Where to
+### 📫 Where to find me
+
+[![X](https://img.shields.io/badge/@sdogruyol-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sdogruyol)
+[![LinkedIn](https://img.shields.io/badge/serdardogruyol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/serdardogruyol)
+[![Website](https://img.shields.io/badge/serdardogruyol.com-2a7ae2?style=flat-square&logo=jekyll&logoColor=white)](https://serdardogruyol.com)
+[![Email](https://img.shields.io/badge/dogruyolserdar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dogruyolserdar@gmail.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sdogruyol)
+
+### ⚡ Fun facts
+
+- Born in Mersin, Turkey 🇹🇷
+- Japanese learner (JLPT N4, 125 pts) 🗾
+- Macroeconomics enthusiast 📈
+- Open Source by default
